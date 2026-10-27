@@ -1,6 +1,6 @@
 {
 	"name": "@michaelrwalker/stage",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Stage edits to values locally with Immer-style drafts, then sync the net changes in as few API calls as possible.",
 	"type": "module",
 	"main": "main.ts",
