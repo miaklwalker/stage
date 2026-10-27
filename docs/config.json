@@ -1,0 +1,32 @@
+{
+	"sections": [
+		{
+			"label": "Getting Started",
+			"children": [
+				{ "label": "Overview", "to": "overview" },
+				{ "label": "Installation", "to": "installation" },
+				{ "label": "Quick Start", "to": "quick-start" }
+			]
+		},
+		{
+			"label": "Guides",
+			"children": [
+				{ "label": "Sync adapters", "to": "guides/sync-adapters" },
+				{ "label": "Reading responses", "to": "guides/reading-responses" },
+				{
+					"label": "Failures and retries",
+					"to": "guides/failures-and-retries"
+				},
+				{ "label": "Edits during a sync", "to": "guides/edits-during-sync" },
+				{ "label": "Type safety", "to": "guides/type-safety" }
+			]
+		},
+		{
+			"label": "Reference",
+			"children": [
+				{ "label": "Stage API", "to": "reference/api" },
+				{ "label": "Errors", "to": "reference/errors" }
+			]
+		}
+	]
+}
